@@ -12,6 +12,8 @@ HTML, CSS, Javascript, Node.JS, Express.Js, API's(weather api)
 6. before that make sure wether you have nodejs or not, if not install it and then run the above command
 
 # for hosting i used render.com cite(free hosting)
+link for demo : 
+https://weather-api-p537.onrender.com/
 
 # output
 
